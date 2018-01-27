@@ -1,0 +1,189 @@
+<resources>
+    <string name="app_name">My Quiz App</string>
+
+
+
+    <!-- QUESTION ONE -->
+    <string name="Q1_text">1. Nicholas Cage chose his stage name in order to distance himself from his famous Hollywood family. What was his surname at birth?</string>
+
+    <string name="Q1_answer_one">Arquette</string>
+
+    <string name="Q1_answer_two">Barrymore</string>
+
+    <string name="Q1_answer_three">Coppola</string>
+
+    <string name="Q1_answer_four">Baldwin</string>
+
+    <string name="Q1_hint">His famous cousin found herself <i>Lost in Translation</i> in 2003</string>
+
+
+
+    <!-- QUESTION TWO -->
+    <string name="Q2_text">2. In which decade was the Oscar for Best Director first won by a woman?</string>
+
+    <string name="Q2_answer_one">1980s</string>
+
+    <string name="Q2_answer_two">1990s</string>
+
+    <string name="Q2_answer_three">2000s</string>
+
+    <string name="Q2_answer_four">2010s</string>
+
+    <string name="Q2_hint">The award was won by Katherine Bigalow for The Hurt Locker</string>
+
+
+
+    <!-- QUESTION THREE -->
+    <string name="Q3_text">3. How many film adaptations have been made of Stephen King\'s books?</string>
+
+    <string name="Q3_answer_one">4&#160;&#160;</string>
+
+    <string name="Q3_answer_two">14</string>
+
+    <string name="Q3_answer_three">24</string>
+
+    <string name="Q3_answer_four">34</string>
+
+    <string name="Q3_hint">Carrie (1976) was the first film adaptation of his work. The latest was Children of the Corn: Runaway (2018)</string>
+
+
+
+    <!-- QUESTION FOUR -->
+    <string name="Q4_text">4. Which of these films originated as an SNL sketch?</string>
+
+    <string name="Q4_answer_one">Coneheads</string>
+
+    <string name="Q4_answer_two">The Blues Brothers</string>
+
+    <string name="Q4_answer_three">Bill &amp; Ted\'s Excellent Adventure</string>
+
+    <string name="Q4_answer_four">Wayne\'s World</string>
+
+    <string name="Q4_hint">This 1989 movie is a bogus answer</string>
+
+
+
+    <!-- QUESTION FIVE -->
+    <string name="Q5_text">5. Which actor did Quentin Tarantino have to persuade to take the part by personally reading his script to them over the phone?</string>
+
+    <string name="Q5_answer_one">Michael Madsen, for Reservoir Dogs</string>
+
+    <string name="Q5_answer_two">Daryl Hannah, for Kill Bill</string>
+
+    <string name="Q5_answer_three">Samuel L Jackson, for Jackie Brown</string>
+
+    <string name="Q5_answer_four">Uma Thurman, for Pulp Fiction</string>
+
+    <string name="Q5_hint">Not only did she agree to this movie, but then went on to start in Tarantino\'s Kill Bill franchise</string>
+
+
+
+    <!-- QUESTION SIX -->
+    <string name="Q6_text">6. What was voted as The Hollywood Reporter\'s greatest movie quote (2016)?</string>
+
+    <string name="Q6_answer_one">\"Here\'s looking at you kid\"</string>
+
+    <string name="Q6_answer_two">\"You talkin\' to me?\"</string>
+
+    <string name="Q6_answer_three">\"Frankly my dear, I don\'t give a damn\"</string>
+
+    <string name="Q6_answer_four">\"There\'s no place like home\"</string>
+
+    <string name="Q6_hint">Clark Gable delivered the famous line in 1939\'s highest grossing film</string>
+
+
+
+
+    <!-- QUESTION SEVEN -->
+    <string name="Q7_text">7. What year was the first Batman film released in?</string>
+
+    <string name="Q7_text_entry_hint">Type answer here</string>
+
+    <string name="Q7_hint">The first full-length theatrical adaptation of the DC Comics character Batman was released in the late 60s.</string>
+
+
+
+    <!-- QUESTION EIGHT -->
+    <string name="Q8_text">8. Which Jane Austen novel is the film Clueless based on?</string>
+
+    <string name="Q8_answer_one">Emma</string>
+
+    <string name="Q8_answer_two">Pride and Prejudice</string>
+
+    <string name="Q8_answer_three">Sense and Sensibility</string>
+
+    <string name="Q8_answer_four">Persuasion</string>
+
+    <string name="Q8_hint">This novel was Jane Austen\'s last</string>
+
+
+
+    <!-- QUESTION NINE -->
+    <string name="Q9_text">9. Which film reused shots of Leonardo DiCaprio\'s breath from Titanic?</string>
+
+    <string name="Q9_answer_one">The Revenant</string>
+
+    <string name="Q9_answer_two">127 Hours</string>
+
+    <string name="Q9_answer_three">The Day After Tomorrow</string>
+
+    <string name="Q9_answer_four">Fight Club</string>
+
+    <string name="Q9_hint">The footage was composited into the 1999 film\'s cave scene</string>
+
+
+
+
+    <!-- QUESTION TEN -->
+    <string name="Q10_text">10. What is Jenny\'s surname in Forrest Gump?</string>
+
+    <string name="Q10_answer_one">Taylor</string>
+
+    <string name="Q10_answer_two">Curran</string>
+
+    <string name="Q10_answer_three">Hoffman</string>
+
+    <string name="Q10_answer_four">Wright</string>
+
+    <string name="Q10_hint">Her full name is never actually spoken in the film, but can be seen on letters delivered to her</string>
+
+
+
+    <!-- HNIT DIALOG BUTTON TEXT -->
+    <string name="Hint_dismiss_button">Ok</string>
+
+
+
+    <!-- BUTTONS -->
+    <string name="Hint_button">Hint</string>
+
+    <string name="Score_button">Calculate my score</string>
+
+    <string name="Reset_button">Reset</string>
+
+
+
+    <!-- END OF QUIZ MESSAGE -->
+    <string name="Final_message"><u>Congratulations, you\'ve reached the end of the quiz!</u></string>
+
+
+    <!-- TOAST RESULTS MESSAGE -->
+    <string name="summary_main_line">You scored <xliff.g id="score" example="9">%s</xliff.g> out of 10!</string>
+    <string name="summary_Q1">Question 1:  <xliff.g id="Q1" example="9">%s</xliff.g></string>
+    <string name="summary_Q2">Question 2:  <xliff.g id="Q2" example="9">%s</xliff.g></string>
+    <string name="summary_Q3">Question 3:  <xliff.g id="Q3" example="9">%s</xliff.g></string>
+    <string name="summary_Q4">Question 4:  <xliff.g id="Q4" example="9">%s</xliff.g></string>
+    <string name="summary_Q5">Question 5:  <xliff.g id="Q5" example="9">%s</xliff.g></string>
+    <string name="summary_Q6">Question 6:  <xliff.g id="Q6" example="9">%s</xliff.g></string>
+    <string name="summary_Q7">Question 7:  <xliff.g id="Q7" example="9">%s</xliff.g></string>
+    <string name="summary_Q8">Question 8:  <xliff.g id="Q8" example="9">%s</xliff.g></string>
+    <string name="summary_Q9">Question 9:  <xliff.g id="Q9" example="9">%s</xliff.g></string>
+    <string name="summary_Q10">Question 10:  <xliff.g id="Q10" example="9">%s</xliff.g></string>
+
+
+    <!-- TOAST RESET MESSAGE -->
+    <string name="resetMessage">Quiz reset!</string>
+
+
+
+</resources>
